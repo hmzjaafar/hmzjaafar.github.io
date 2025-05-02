@@ -27,8 +27,8 @@ I am a PhD student, working on the semantics of effectful programming languages 
   "authors": "JAAFAR Hamza",
   "venue": "GALOP (POPL '24)",
   "files": [
-    { "text": "(vid)", "type": "video", "src": "https://www.youtube.com/watch?v=tF9Y5GxJpmc" },
-    { "text": "(slides)", "type": "slides", "src": "ftalk.pdf"}
+    { "text": "slides", "type": "slides", "src": "ftalk.pdf"},
+    { "text": "video", "type": "video", "src": "https://www.youtube.com/watch?v=tF9Y5GxJpmc"}
   ]
 }
 ```
