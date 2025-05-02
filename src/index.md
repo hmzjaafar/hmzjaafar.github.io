@@ -1,6 +1,6 @@
 ---
 title: personal page
-author: JAAFAR Hamza
+author: Hamza JAAFAR 
 shortbio: PhD student in theoretical computer science in the team [Gallinette](https://gallinette.gitlabpages.inria.fr/website/).
 description-meta: 
 og-url: https://hjaafar.github.io
@@ -24,7 +24,6 @@ I am a PhD student, working on the semantics of effectful programming languages 
 ``` json {.papers}
 {
   "title": "Towards full-abstraction for algebraic effects and handlers",
-  "authors": "JAAFAR Hamza",
   "venue": "GALOP (POPL '24)",
   "files": [
     { "text": "slides", "type": "slides", "src": "ftalk.pdf"},
