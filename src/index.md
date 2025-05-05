@@ -13,7 +13,7 @@ side-by-side: true
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io) 
-  made by Th{\'e}o Winterh{\"a}lter and Yannick Forster!
+  made by Théo Winterhalter and Yannick Forster!
 ---
 
 Working on the semantics of effectful programming languages and interested in all kinds of related topics.
