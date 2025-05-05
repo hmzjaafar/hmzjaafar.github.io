@@ -12,7 +12,8 @@ side-by-side: true
 (pronouns: Ta / Al / The)
 footer: >-
   Based on the
-  [basicpage template](https://github.com/basicpage/basicpage.github.io)!
+  [basicpage template](https://github.com/basicpage/basicpage.github.io) 
+  made by Th{\'e}o Winterh{\"a}lter and Yannick Forster!
 ---
 
 Working on the semantics of effectful programming languages and interested in all kinds of related topics.
