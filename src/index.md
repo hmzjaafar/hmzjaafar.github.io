@@ -9,7 +9,7 @@ email: hamzaja3far [at] gmail [dot] com
 picture: 
 picture-round: false
 side-by-side: true
-(pronouns: Ta / Al / The)
+#(pronouns: Ta / Al / The)
 footer: >-
   Based on the
   [basicpage template](https://github.com/basicpage/basicpage.github.io) 
