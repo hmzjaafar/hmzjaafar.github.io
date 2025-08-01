@@ -1,8 +1,8 @@
 ---
 title: Hamza JAAFAR 
 author: Hamza JAAFAR 
-shortbio: PhD student in theoretical computer science in the INRIA team [Gallinette](https://gallinette.gitlabpages.inria.fr/website/) under the supervision of [Guilhem JABER](https://guilhem.jaber.fr).
-description-meta: 
+shortbio: PhD candidate working on the semantics of programming languages.
+description-meta:  description meta
 #og-url: https://hjaafar.github.io
 location: LS2N, office 2015
 email: hamzaja3far [at] gmail [dot] com
@@ -17,7 +17,9 @@ side-by-side: true
   made by Théo Winterhalter and Yannick Forster!
 -->
 
-I am currently working on (game semantics) models of algebraic effects and I am interested in the related topics of denotational semantics, (effectful) functional programming languages, type theory and logic.
+I am a doctoral candidate at INRIA Nantes ([Gallinette](https://gallinette.gitlabpages.inria.fr/website/) team), completing my thesis  under the supervision of [Guilhem JABER](https://guilhem.jaber.fr).
+My research focuses on studying algebraic effects and handlers through the lens of (operational) game semantics.  
+My work is increasingly informed by interests in denotational semantics, (effectful) functional programming languages, and the foundational connections between (dependent) type theory and logic.
 
 # Publications
 
