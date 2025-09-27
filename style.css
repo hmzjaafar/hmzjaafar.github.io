@@ -353,3 +353,11 @@ span.lastupdate {
     justify-content: left;
   }
 }
+
+.emoji {
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: text-bottom;
+  display: inline-block;
+}
+
